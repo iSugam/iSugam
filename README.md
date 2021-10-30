@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iSugam.
+- 👋 Hi, I’m Sugam Sahu
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning "2021 Complete Web Development Bootcamp by Angela Yu".
 - 💞️ I’m looking to collaborate on anything related to Web Development.
