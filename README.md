@@ -1,6 +1,6 @@
 ## 👋 Hi, It's Sugam
 #### 👀 I have lots of interest in Web Development and also learning new technologies other than Web Development.
-#### 🌱 I’m currently learning "Fullstack web Development", "Datastructure and Algorithm in Javascript" and "React.js".
+#### 🌱 I’m currently learning "Datastructure and Algorithm in Javascript".
 #### 💞️ I’m looking to collaborate on anything related to Web Development.
 ##### 📫 To reach me, mail me at: sugamanandsahu01@gmail.com
 ##### 🌐 My portfolio address: [www.sugamsahu.com](https://www.sugamsahu.com/)
