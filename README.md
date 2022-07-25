@@ -1,4 +1,4 @@
-## 👋 Hi, It's Sugam
+# 👋 Hi, It's Sugam
 #### 👀 I have lots of interest in Web Development and also learning new technologies other than Web Development.
 #### 🌱 I’m currently learning "Datastructure and Algorithm in Javascript".
 #### 💞️ I’m looking to collaborate on anything related to Web Development.
