@@ -1,10 +1,15 @@
-# 👋 Hi, It's Sugam
+<h1 align="center">👋 Hi, It's Sugam</h1> 
 - 👀 I have lots of interest in Web Development and also learning new technologies other than Web Development.
 - 💞️ I’m looking to collaborate on anything related to Web Development.
 - 📫 To reach me, mail me at: sugamanandsahu01@gmail.com
-- 🌐 Portfolio: [www.sugamsahu.com](https://www.sugamsahu.com/)
+- 🌐 ![Portfolio](https://www.sugamsahu.com/)
 
-[![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam)](https://github.com/anuraghazra/github-readme-stats)
+
+<code><h2 align="left">Stats</h2></code>
+<code><div align="right">
+![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
+</div>
+</code>
 
 <!---
 iSugam/iSugam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
