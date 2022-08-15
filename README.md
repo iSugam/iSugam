@@ -2,7 +2,7 @@
 - 👀 I have lots of interest in Web Development.
 - 💞️ I’m looking to collaborate on anything related to Web Development.
 - 📫 To reach me, mail me at: sugamanandsahu01@gmail.com
-- 🌐 [Portfolio](https://www.sugamsahu.com/)
+- 🌐 Website - [Portfolio](https://www.sugamsahu.com/)
 
 ![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
 
