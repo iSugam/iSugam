@@ -4,7 +4,7 @@
 - 📧 My email addresses: 
     - sugamanandsahu01@gmail.com
     - mail-to@sugamsahu.com
-- 🌎 Website - [Portfolio](https://www.sugamsahu.com/)
+- 🌎 Website - [sugamsahu.com](https://www.sugamsahu.com/)
 
 ![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
 
