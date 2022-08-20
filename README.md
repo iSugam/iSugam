@@ -1,7 +1,7 @@
 # 👋 Hi, It's Sugam from India
 - 👀 I have lots of interest in Web Development and cyber security.
 - 🎯 I am currently focusing on mastering web development.
-- 📧 My email addresses: 
+- 📧 You can reach me with these emails.: 
     - sugamanandsahu01@gmail.com
     - mail-to@sugamsahu.com
 - 🌎 Website - [sugamsahu.com](https://www.sugamsahu.com/)
