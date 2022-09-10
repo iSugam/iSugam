@@ -1,4 +1,4 @@
-# 👋 Hi, It's Sugam from India
+# 👋 Hi, It's Sugam
 - 👀 I have lots of interest in Web Development and cyber security.
 - 🎯 I am currently focusing on mastering web development.
 - 📧 You can reach me with these emails: 
