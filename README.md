@@ -4,7 +4,7 @@
 - 📧 You can reach me with these emails: 
     - sugamanandsahu01@gmail.com
     - mail-to@sugamsahu.com
-- 🌎 Website - [sugamsahu.com](https://www.sugamsahu.com/)
+- 🌎 Website - [https://www.sugamsahu.com](https://www.sugamsahu.com/)
 
 ![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
 
