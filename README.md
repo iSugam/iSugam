@@ -8,7 +8,7 @@
 
 ![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSugam&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSugam&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 iSugam/iSugam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
