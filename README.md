@@ -3,7 +3,6 @@
 - 🎯 I am currently focusing on mastering web development.
 - 📧 You can reach me with these emails: 
     - sugamanandsahu01@gmail.com
-    - mail-to@sugamsahu.com
 - 🌎 Website - [https://sugam-portfolio.netlify.app/](https://sugam-portfolio.netlify.app/)
 
 ![Sugam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iSugam&show_icons=true&theme=dark)
