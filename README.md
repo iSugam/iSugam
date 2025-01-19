@@ -6,9 +6,9 @@
 - 🌎 Website - [https://sugam-portfolio.netlify.app/](https://sugam-portfolio.netlify.app/)
   <br>
 
-<img align="left" width="47%" src="https://github-readme-stats-rho-three-36.vercel.app/api?username=iSugam&show_icons=true&bg_color=00000000" alt="My stats" />
+<img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iSugam&show_icons=true&bg_color=00000000" alt="My stats" />
 
-<img align="right" width="47%" src="https://github-readme-stats-rho-three-36.vercel.app/api/top-langs/?username=iSugam&layout=donut-vertical" alt="Top languages" />
+<img align="right" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iSugam&layout=donut-vertical" alt="Top languages" />
 <!---
 iSugam/iSugam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
