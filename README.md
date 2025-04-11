@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sugam-portfolio.netlify.app/](https://sugam-portfolio.netlify.app/)
 - 📫 How to reach me **sugamanandsahu01@gmail.com**
-- 👨‍💼 Hire me on [Upwork](/freelancers/~0156b624681bdb701c?mp_source=share)
+- 👨‍💼 Hire me on [Upwork](https://www.upwork.com/freelancers/~0156b624681bdb701c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
