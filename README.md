@@ -1,7 +1,7 @@
 <h1 align="">Hi 👋, I'm Sugam Sahu</h1>
 <h3 align="">A passionate Full-Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sugam-portfolio.netlify.app/](https://sugamsahu.com/)
+- 👨‍💻 All of my projects are available at [https://sugamsahu.com](https://sugamsahu.com/)
 - 📫 How to reach me **sugamanandsahu01@gmail.com**
 - 👨‍💼 Hire me on [Upwork](https://www.upwork.com/freelancers/~0156b624681bdb701c)
 
