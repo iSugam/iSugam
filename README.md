@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Sugam Sahu</h1>
+<h1 align="">Hi 👋, I'm Sugam Sahu </h1>
 <h3 align="">A passionate Full-Stack developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [sugamsahu.com](https://sugamsahu.com/)
