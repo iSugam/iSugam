@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [sugamsahu.com](https://sugamsahu.com/)
 - 📫 How to reach me **sugamanandsahu01@gmail.com**
-- 👨‍💼 Hire me on [Upwork](https://www.upwork.com/freelancers/~0156b624681bdb701c)
+- 👨‍💼 Hire me on [Upwork](https://www.upwork.com/freelancers/sugam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
