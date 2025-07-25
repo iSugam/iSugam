@@ -47,9 +47,9 @@
 ###
 
 
-<p><img align="right" width="47%" src="https://github-readme-stats-new-kappa.vercel.app/api/top-langs/?username=iSugam&layout=compact&theme=dark" alt="Top languages" /></p>
+<p><img align="left" width="47%" src="https://github-readme-stats-new-kappa.vercel.app/api/top-langs/?username=iSugam&layout=compact&theme=dark" alt="Top languages" /></p>
 
-<p><img align="left" width="47%" src="https://github-readme-stats-new-kappa.vercel.app/api?username=iSugam&show_icons=true&bg_color=00000000&theme=dark" alt="My stats" /></p>
+<p><img align="right" width="47%" src="https://github-readme-stats-new-kappa.vercel.app/api?username=iSugam&show_icons=true&bg_color=00000000&theme=dark" alt="My stats" /></p>
 
 
 <!---
